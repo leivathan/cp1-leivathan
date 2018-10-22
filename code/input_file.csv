@@ -1,7 +1,9 @@
-.01050223
-.0012557014
+.6301338005
+.0753420848
 100
 0
 0
 1
-3000
+50
+this is the input file, it is a csv, the lambda values were calculated from the given half life and all time is in hours
+The input file doesn't read this far
